@@ -17,7 +17,11 @@
   },
   "homepage": "https://github.com/NikhilKanchetty/customerManager#readme",
   "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
     "gulp": "^4.0.0",
+    "mongojs": "^2.6.0",
     "nodemon": "^1.18.9"
   }
 }
