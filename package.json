@@ -1,0 +1,23 @@
+{
+  "name": "customermanager",
+  "version": "1.0.0",
+  "description": "mean app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NikhilKanchetty/customerManager.git"
+  },
+  "author": "nikhil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NikhilKanchetty/customerManager/issues"
+  },
+  "homepage": "https://github.com/NikhilKanchetty/customerManager#readme",
+  "dependencies": {
+    "gulp": "^4.0.0",
+    "nodemon": "^1.18.9"
+  }
+}
